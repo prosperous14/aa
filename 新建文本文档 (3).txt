@@ -1,0 +1,34 @@
+yum install git
+which -a git 查看路径
+git version 查看版本
+git config --global user.name 用户名
+git config --global user.email 邮箱
+mkdir  文件夹
+touch 文件名
+vi 文件名
+git init 
+git add 文件名 
+git status
+git commit -m 'first commit 注释'
+git reset --hard HEAD^ 回退
+git diff 
+git log
+git reflog
+
+git checkout 文件名 
+git reset HEAD 文件名
+ssh- keygen -t rsa -C '账户'
+
+git push origin master
+
+
+
+
+
+git clone 
+
+.gitignore
+
+
+
+
